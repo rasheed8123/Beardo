@@ -9,34 +9,10 @@ _To start with the Project run the following command in terminal in "backend" fo
 > After that run index.html in live server and you are ready to run and explore our project.
 
 ---
+### About Project
 
-### Team Members
+> We did this project within 4 days in our unit-4 construct week. We worked on backend parts with includes various types of libraries into it and we have also added database for our project so user and product details will be saved and can be used accordingly. We have also add some cool functionality in our home page, product page and cart page where you can filter the products according to your choice and user can Signup and Login to buy the products.
 
-- **[Vikrant Vinayak Raut](https://github.com/15VIKRANT)**
-- **[Jagamohan Panda](https://github.com/Jagamohan-81)**
-- **[Ritu Bankey](https://github.com/Ritu1011)**
-- **[Vishal Vivare](https://github.com/)**
-- **[Neelam Singh](https://github.com/Neelam2026)**
-
----
-
----
-
-## Tech Stack Used : -
-
-- #### Languages
-  - `HTML`
-  - `CSS`
-  - `JavaScript ES6`
-- #### Framework
-  - `Node.Js`
-- #### Libraries
-  - `Express`
-  - `mongoose`
-- #### Database
-  - `MongoDB`
-
----
 
 ### _Following are the Screenshots for the reference_
 
@@ -63,9 +39,24 @@ _To start with the Project run the following command in terminal in "backend" fo
 
 ---
 
-### About Project
 
-> We did this project within 4 days in our unit-4 construct week. We worked on backend parts with includes various types of libraries into it and we have also added database for our project so user and product details will be saved and can be used accordingly. We have also add some cool functionality in our home page, product page and cart page where you can filter the products according to your choice and user can Signup and Login to buy the products.
+
+## Tech Stack Used : -
+
+- #### Languages
+  - `HTML`
+  - `CSS`
+  - `JavaScript ES6`
+- #### Framework
+  - `Node.Js`
+- #### Libraries
+  - `Express`
+  - `mongoose`
+- #### Database
+  - `MongoDB`
+
+---
+
 
 ---
 
